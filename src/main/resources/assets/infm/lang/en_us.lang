@@ -1,0 +1,22 @@
+// Items
+item.space_stone.name=Space Stone
+item.space_stone_active.name=Active Space Stone
+
+// Blocks
+tile.tesseract.name=Tesseract
+tile.space_stone_ore.name=Space Stone Ore
+tile.teleporter.name=Teleporter
+container.teleporter=Teleporter
+
+// Tools
+item.space_sword.name=Space Sword
+item.space_shovel.name=Space Shovel
+item.space_pickaxe.name=Space Pickaxe
+item.space_axe.name=Space Axe
+item.space_hoe.name=Space Hoe
+
+// Armor
+item.space_helmet.name=Space Helmet
+item.space_chestplate.name=Space Chestplate
+item.space_leggings.name=Space Leggings
+item.space_boots.name=Space Boots

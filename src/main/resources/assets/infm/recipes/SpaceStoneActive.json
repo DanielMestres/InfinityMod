@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BRB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "infm:space_stone"
+        },
+        
+        "B":
+        {
+        	"item": "minecraft:blaze_powder"
+        }
+    },
+    
+    "result":
+    {
+        "item": "infm:space_stone_active",
+        "count": 1
+    }
+}

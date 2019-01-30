@@ -1,0 +1,15 @@
+[
+{
+	"modid": "infm",
+	"name": "Infinity Mod",
+	"description": "Adds the space stone item, ore, tesseract, teleporter and associated tools, weapons and armor",
+	"version": "1.2",
+	"mcversion": "1.12.2",
+	"url": "",
+	"authorList": ["Daniel Mestres", "Christian Ramos"],
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+}
+]

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "infm:space_stone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "infm:tesseract",
+        "count": 1
+    }
+}

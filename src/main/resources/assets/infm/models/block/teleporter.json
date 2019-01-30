@@ -1,0 +1,12 @@
+{
+   "parent": "block/orientable",
+   "textures": {
+   	   "particle": "infm:blocks/teleporter_side",
+       "up": "infm:blocks/teleporter_up",
+       "down": "infm:blocks/teleporter_down",
+       "north": "infm:blocks/teleporter_side",
+       "south": "infm:blocks/teleporter_side",
+       "east": "infm:blocks/teleporter_side",
+       "west": "infm:blocks/teleporter_side"
+   }
+}

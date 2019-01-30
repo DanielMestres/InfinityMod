@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "infm:space_stone"
+        },
+        
+        "S":
+        {
+        	"item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "infm:space_pickaxe",
+        "count": 1
+    }
+}

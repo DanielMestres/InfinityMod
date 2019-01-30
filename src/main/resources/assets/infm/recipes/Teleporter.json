@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BRB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "infm:space_stone_active"
+        },
+        
+        "B":
+        {
+        	"item": "minecraft:cobblestone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "infm:teleporter",
+        "count": 1
+    }
+}

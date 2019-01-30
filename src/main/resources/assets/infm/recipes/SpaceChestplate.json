@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "R R",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "infm:space_stone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "infm:space_chestplate",
+        "count": 1
+    }
+}

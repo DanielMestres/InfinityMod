@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": 
+    [
+ 
+    {
+      "item": "infm:tesseract"
+    }
+ 
+    ],
+ 
+    "result": 
+    {
+        "item": "infm:space_stone",
+        "count": 9
+    }
+}
