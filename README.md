@@ -1,6 +1,7 @@
 # Infinity Mod, by bannedfromserver team
 
 Mod for Minecraft made as a project for Advanced Programming class of UPRM
+
 Made by Daniel Mestres Pinero and Christian Ramos Lopez
 
 
